@@ -1,0 +1,13 @@
+import { Layout } from "../components/Layout"
+
+function about() {
+  return (
+    <Layout>
+      <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque voluptatum eius recusandae sit mollitia minima deleniti quibusdam quasi rem corporis, exercitationem accusantium soluta corrupti velit in nam earum repellendus, dolorum, amet alias. Illo facere inventore id commodi pariatur molestiae vero eligendi, molestias voluptatibus deleniti repellat quisquam nobis modi natus repudiandae quia dolor perspiciatis nulla? Ut eum, excepturi assumenda quis inventore nesciunt modi explicabo sed ipsum labore temporibus reprehenderit sunt eveniet nihil aspernatur nostrum, molestiae perferendis praesentium laboriosam aliquid aperiam. Saepe amet natus sint eveniet error placeat corrupti totam inventore voluptates nam beatae necessitatibus provident ut optio, iste eum. Illum minus omnis placeat. Enim vel tempora asperiores sapiente exercitationem perferendis! Minima architecto, doloribus earum nemo vero aspernatur laborum sed libero consectetur deserunt ipsam? Ad, perspiciatis veniam aut repudiandae ab doloribus, dicta nulla reiciendis nemo maxime eaque necessitatibus vitae explicabo. Mollitia explicabo dicta at unde ad. Molestiae sapiente, quis perspiciatis ducimus officia repellat culpa, laudantium nisi nesciunt error sint odit. Non praesentium aliquid autem, reprehenderit nobis voluptates laboriosam earum nihil consectetur minus illum ea asperiores explicabo reiciendis, repudiandae quasi unde labore expedita doloribus. Laudantium repudiandae minima perferendis earum excepturi provident impedit numquam nisi saepe sed. Facilis quibusdam quaerat sit id reprehenderit aliquid, illo, nesciunt reiciendis, sed ratione nobis perferendis in autem officiis. Natus, esse quisquam. Earum ad animi rerum doloremque quod consequatur? Perferendis quae voluptatibus soluta expedita perspiciatis voluptatum, sapiente a porro voluptas non dolorem, vitae incidunt harum dicta! Ab consequatur optio dolorem molestias exercitationem quisquam explicabo ipsam id neque nesciunt hic ex odit officiis, nobis perspiciatis maiores est maxime error enim numquam. Omnis suscipit quisquam recusandae aspernatur ut! Dolorum ad assumenda, odit ipsam ipsa pariatur neque eius, repellat commodi fuga nemo maxime fugiat iure accusamus voluptas dolorem praesentium, accusantium debitis illo omnis repellendus eos! Minima minus sapiente quasi perspiciatis modi harum?
+      </p>
+    </Layout>
+  )
+}
+
+export default about
